@@ -1,10 +1,6 @@
 <h2 align="left">Hi.</h2>
 
-###
 
-<h6 align="left">I'm a Android/Mobile Developer Student<br>Focus in Kotlin and Java<br>Eldorado me nota 🙏🙏</h6>
-
-###
 
 <img src="https://raw.githubusercontent.com/manthuso/manthuso/output/snake.svg" alt="Snake animation" />
 
