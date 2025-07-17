@@ -1,10 +1,9 @@
 <h2 align="left">Hi.</h2>
 
-
-
-<img src="https://raw.githubusercontent.com/manthuso/manthuso/output/snake.svg" alt="Snake animation" />
-
 ###
+
+<h6 align="left">I'm a Android/Mobile Developer Student<br>Focus in Kotlin and Java<br>Eldorado me nota 🙏🙏</h6>
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=manthuso&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
