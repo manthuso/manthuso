@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">I'm a Android/Mobile Developer Student<br>Focus in Kotlin and Java<br>Eldorado me nota 🙏🙏</h6>
+<h4 align="left">I'm a Android/Mobile Developer Student<br>Focus in Kotlin and Java<br>Eldorado me nota 🙏🙏</h4>
 
 
 <div align="left">
