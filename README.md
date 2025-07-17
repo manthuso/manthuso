@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm a Software Developer Student<br>Currently learning Java and Kotlin.<br>Eldorado me nota 🙏🙏</h4>
+<h4 align="left">I'm a Software Developer Student<br>Currently learning Java, Kotlin and Spring Boot.<br>Always open to internship opportunities in tech!</h4>
 
 
 <div align="left">
@@ -28,6 +28,6 @@
 
 <br clear="both">
 
-<p align="right">"for those who come after."</p>
+<p align="right">"for those who come after, right?"</p>
 
 ###
