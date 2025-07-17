@@ -1,8 +1,8 @@
-<h2 align="left">Hi.</h2>
+<h2 align="left">Hello Samurai.</h2>
 
 ###
 
-<h4 align="left">I'm a Android/Mobile Developer Student<br>Focus in Kotlin and Java<br>Eldorado me nota 🙏🙏</h4>
+<h4 align="left">I'm a Software Developer Student<br>Currently learning Java and Kotlin.<br>Eldorado me nota 🙏🙏</h4>
 
 
 <div align="left">
