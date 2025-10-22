@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm a Software Developer Student<br>Currently learning Java, Kotlin and Spring Boot.<br>Always open to internship opportunities in tech!</h4>
+<h4 align="left">I'm a Software Developer Student<br>Currently learning Python, React and Kotlin(sometimes) .<br>Always open to internship opportunities in tech!</h4>
 
 
 <div align="left">
